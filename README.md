@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Madhav-M-Malhotra
 - 👀 I’m interested in CyberSecurity
-- 🌱 I’m currently learning FullStack Web-Development
+- 🌱 I’m currently learning DSA
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
