@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Madhav-M-Malhotra
+- 👋 Hi, I’m Madhav Malhotra
 - 👀 I’m interested in CyberSecurity
-- 🌱 I’m currently learning DSA
+- 🌱 I’m currently learning DSA in Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
