@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Madhav Malhotra  
-👀 I’m interested in Progressive Web App (PWA) Development  <br>🌱 Currently learning Full-Stack Web Development (MERN Stack)  <br>💡 Looking to collaborate on practical and impactful Web Development projects  <br>📫 Reach me at: madhav.m@ahduni.edu.in<br>
+👀 I’m interested in Progressive Web App (PWA) Development  <br>🌱 Currently learning Full-Stack Web Development (MERN Stack)  <br>💡 Looking to collaborate on practical and impactful projects  <br>📫 Reach me at: madhav.m@ahduni.edu.in<br>
 
 # 📈 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Madhav-M-Malhotra&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
